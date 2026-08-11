@@ -97,15 +97,6 @@
 
 📄 [PRD · TRD · 멀티 에이전트 아키텍처 문서 보기](https://j-hyunn.github.io/portfolio/projects/replai)
 
-<br/>
-
-### 🗂️ [Portfolio](https://j-hyunn.github.io/portfolio) — PM 포트폴리오 사이트 `2026 ~`
-
-> 프로젝트 산출물(PRD/BRD/정책 문서)을 그대로 열람할 수 있는 문서 중심 포트폴리오 사이트.
-> 기획 · 디자인 · 구현 · 배포를 직접 진행했습니다.
-
-`React` `TypeScript` `Vite` `Tailwind CSS` `GitHub Pages`
-
 ---
 
 <div align="center">
