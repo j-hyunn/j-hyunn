@@ -21,6 +21,26 @@
 
 ---
 
+## 🧰 Skills
+
+**Product**
+`PRD & 기능 명세` `제품 로드맵 · 백로그` `GTM 전략` `퍼널 · 행동 데이터 분석` `A/B · 베타 테스트 설계`
+
+**Design & UX**
+`프로덕트 디자인` `UX 플로우 설계` `디자인 시스템` `사용성 개선`
+
+**Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
 ## 💼 Career
 
 | 기간 | 회사 | 도메인 | 직무 |
@@ -91,26 +111,6 @@
 > 기획 · 디자인 · 구현 · 배포를 직접 진행했습니다.
 
 `React` `TypeScript` `Vite` `Tailwind CSS` `GitHub Pages`
-
----
-
-## 🧰 Skills
-
-**Product**
-`PRD & 기능 명세` `제품 로드맵 · 백로그` `GTM 전략` `퍼널 · 행동 데이터 분석` `A/B · 베타 테스트 설계`
-
-**Design & UX**
-`프로덕트 디자인` `UX 플로우 설계` `디자인 시스템` `사용성 개선`
-
-**Tools**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
