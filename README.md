@@ -4,7 +4,7 @@
 
 **Product Manager** · 사용자의 숨겨진 니즈를 찾아 데이터로 검증하고, 제품 성장으로 연결합니다.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://j-hyunn.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://j-hyunn.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jehyunn)
 [![Email](https://img.shields.io/badge/lab.jehyun@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lab.jehyun@gmail.com)
 
