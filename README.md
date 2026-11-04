@@ -83,7 +83,7 @@
 
 ## 🚀 Personal Projects
 
-### 🎤 [Replai](https://replai-interview.vercel.app) — AI 모의면접 서비스 `2026.03 ~ 2026.09`
+### 🎤 [Replai](https://replai-interview.vercel.app) — AI 모의면접 서비스 `2026.03 ~ 2026.08`
 
 > "내 서류를 읽은 AI가 면접관이 되면 안 되나?"라는 질문에서 시작한 서비스.
 > JD와 이력서를 교차 분석한 AI 면접관과 모의면접을 진행하고, 답변별 평가 리포트를 받습니다.
